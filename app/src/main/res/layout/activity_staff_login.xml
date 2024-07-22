@@ -1,0 +1,78 @@
+<!-- activity_staff_login.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/img4"
+    android:padding="16dp">
+
+    <TextView
+        android:text="Staff Login"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:textColor="@android:color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="30dp" />
+
+    <EditText
+        android:id="@+id/staffIdEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Staff ID"
+        android:textSize="18dp"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/white"
+        android:inputType="text"
+        android:backgroundTint="@android:color/white"
+        android:layout_marginTop="16dp" />
+
+    <EditText
+        android:id="@+id/emailEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Email"
+        android:textSize="18dp"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/white"
+        android:inputType="textEmailAddress"
+        android:backgroundTint="@android:color/white"
+        android:layout_marginTop="8dp" />
+
+    <EditText
+        android:id="@+id/passwordEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Password"
+        android:textSize="18dp"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/white"
+        android:inputType="textPassword"
+        android:backgroundTint="@android:color/white"
+        android:layout_marginTop="8dp" />
+
+    <Button
+        android:id="@+id/loginButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"
+        android:backgroundTint="@color/cardview_shadow_start_color"
+        android:layout_marginTop="24dp" />
+
+    <!-- Register Staff Member Button -->
+    <Button
+        android:id="@+id/registerStaffButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Register Staff Member"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"
+        android:backgroundTint="@color/cardview_shadow_start_color"
+        android:layout_marginTop="8dp" />
+</LinearLayout>

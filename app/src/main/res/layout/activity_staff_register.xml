@@ -6,46 +6,61 @@
     android:background="@drawable/img3"
     android:padding="16dp">
 
+    <!-- Title -->
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
         android:text="Register an Account"
+        android:gravity="center"
+        android:textSize="26dp"
         android:textStyle="bold"
         android:textColor="@android:color/white"
-        android:textSize="26sp"
-        android:layout_gravity="center"
-        android:layout_marginBottom="24dp" />
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp" />
+
+    <EditText
+        android:id="@+id/staffIdEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Staff ID"
+        android:textSize="18dp"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/white"
+        android:inputType="text"
+        android:backgroundTint="@android:color/white"
+        android:layout_marginTop="16dp" />
 
     <EditText
         android:id="@+id/emailEditText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Email"
-        android:inputType="textEmailAddress"
-        android:layout_marginTop="16dp"
+        android:textSize="18dp"
         android:textColor="@android:color/white"
         android:textColorHint="@android:color/white"
-        android:textSize="18sp" />
+        android:inputType="textEmailAddress"
+        android:backgroundTint="@android:color/white"
+        android:layout_marginTop="8dp" />
 
     <EditText
         android:id="@+id/passwordEditText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Password"
-        android:inputType="textPassword"
-        android:layout_marginTop="8dp"
+        android:textSize="18dp"
         android:textColor="@android:color/white"
         android:textColorHint="@android:color/white"
-        android:textSize="18sp" />
+        android:inputType="textPassword"
+        android:backgroundTint="@android:color/white"
+        android:layout_marginTop="8dp" />
 
     <Button
-        android:id="@+id/createAccountButton"
+        android:id="@+id/registerButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Create Account"
+        android:textSize="18dp"
         android:textStyle="bold"
-        android:layout_marginTop="24dp"
         android:textColor="@android:color/white"
-        android:textSize="18sp"
-        android:backgroundTint="@color/cardview_shadow_start_color" />
+        android:backgroundTint="@color/cardview_shadow_start_color"
+        android:layout_marginTop="24dp" />
 </LinearLayout>

@@ -32,22 +32,13 @@
                 android:id="@+id/centerImageView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:src="@drawable/logo3"
+                android:src="@drawable/img_1"
                 android:contentDescription="Center Image"
                 android:layout_centerHorizontal="true"
                 android:layout_below="@id/logoutTextView" />
         </RelativeLayout>
 
-        <!-- TextView with bold text -->
-        <TextView
-            android:text="Welcome to EstateManager"
-            android:gravity="center"
-            android:textColor="@color/white"
-            android:textSize="26sp"
-            android:textStyle="bold"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:padding="16dp" />
+
 
         <!-- Buy Property Button -->
         <Button
