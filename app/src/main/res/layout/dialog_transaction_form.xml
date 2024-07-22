@@ -1,0 +1,55 @@
+<!-- res/layout/dialog_transaction_form.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/newOwnerEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="New Owner" />
+
+    <EditText
+        android:id="@+id/oldOwnerEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Old Owner" />
+
+    <EditText
+        android:id="@+id/dealAmountEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Deal Amount" />
+
+    <EditText
+        android:id="@+id/propertySizeEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Property Size" />
+
+    <EditText
+        android:id="@+id/dealerAgentEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Dealer Agent" />
+
+    <TextView
+        android:id="@+id/commissionEarnedTextView"
+        android:layout_width="match_parent"
+        android:padding="10dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:hint="Commission will be Calculated" />
+
+    <Button
+        android:id="@+id/submitTransactionButton"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/cardview_shadow_start_color"
+        android:text="Submit" />
+</LinearLayout>

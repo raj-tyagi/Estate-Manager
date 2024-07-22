@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:background="@drawable/img"
+        android:padding="16dp">
+
+        <!-- Log Out TextView -->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp">
+
+            <TextView
+                android:id="@+id/logoutTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Log Out"
+                android:textColor="@color/white"
+                android:textSize="16sp"
+                android:paddingBottom="30dp"
+                android:layout_alignParentEnd="true"
+                android:layout_marginEnd="16dp"
+                android:layout_marginTop="16dp"
+                android:clickable="true"
+                android:focusable="true" />
+
+            <ImageView
+                android:id="@+id/centerImageView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/logo3"
+                android:contentDescription="Center Image"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@id/logoutTextView" />
+        </RelativeLayout>
+
+        <!-- TextView with bold text -->
+        <TextView
+            android:text="Welcome to EstateManager"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textSize="26sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp" />
+
+        <!-- Buy Property Button -->
+        <Button
+            android:id="@+id/buyButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Buy Property"
+            android:textSize="18dp"
+            android:textColor="@android:color/white"
+            android:backgroundTint="@color/cardview_shadow_start_color"
+            android:layout_marginTop="16dp" />
+
+        <!-- Rent Property Button -->
+        <Button
+            android:id="@+id/rentButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Rent Property"
+            android:textSize="18dp"
+            android:textColor="@android:color/white"
+            android:backgroundTint="@color/cardview_shadow_start_color"
+            android:layout_marginTop="8dp" />
+
+        <!-- Sell Property Button -->
+        <Button
+            android:id="@+id/sellButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sell Property"
+            android:textSize="18dp"
+            android:textColor="@android:color/white"
+            android:backgroundTint="@color/cardview_shadow_start_color"
+            android:layout_marginTop="8dp" />
+
+        <!-- To-let Property Button -->
+        <Button
+            android:id="@+id/toletButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="To-let Property"
+            android:textSize="18dp"
+            android:textColor="@android:color/white"
+            android:backgroundTint="@color/cardview_shadow_start_color"
+            android:layout_marginTop="8dp" />
+
+        <!-- Log Button -->
+        <Button
+            android:id="@+id/logButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Transaction Logs"
+            android:textSize="18dp"
+            android:textColor="@android:color/white"
+            android:backgroundTint="@color/cardview_shadow_start_color"
+            android:layout_marginTop="8dp" />
+    </LinearLayout>
+</layout>

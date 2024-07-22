@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27671213315",
+    "project_id": "databaseapp-c7f2b",
+    "storage_bucket": "databaseapp-c7f2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27671213315:android:1dbb0692fcc9306648e536",
+        "android_client_info": {
+          "package_name": "com.example.databaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkN_wygqrVMT2DuVTzPanaj-GBa_mMeRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
