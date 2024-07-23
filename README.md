@@ -88,8 +88,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or feedback, please contact me at:
-- **Name**: [[Raj Tyagi]](https://www.linkedin.com/in/raj-tyagi-83765b21b/)
+For any inquiries or feedback, please contact me @ [[Raj Tyagi]](https://www.linkedin.com/in/raj-tyagi-83765b21b/)
 
 ---
 
