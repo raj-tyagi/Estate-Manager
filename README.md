@@ -20,22 +20,22 @@ Below are the screenshots showcasing the key features and user interface of the 
 
 
 <p align="center">
-  <img src="IMAGE_URL1" alt="Screenshot 1" width="150"/>
-  <img src="IMAGE_URL2" alt="Screenshot 2" width="150"/>
-  <img src="IMAGE_URL3" alt="Screenshot 3" width="150"/>
-  <img src="IMAGE_URL4" alt="Screenshot 4" width="150"/>
-  <img src="IMAGE_URL5" alt="Screenshot 5" width="150"/>
+  <img src="https://github.com/user-attachments/assets/121ea6a5-4331-4813-b52f-bf2eab7fc4a5" alt="Screenshot 1" width="150"/>
+  <img src="https://github.com/user-attachments/assets/be410587-c661-4f57-bb76-9f7abc96dde1" alt="Screenshot 2" width="150"/>
+  <img src="https://github.com/user-attachments/assets/db47c474-bcb2-42a0-9608-a2fc501926a0" alt="Screenshot 3" width="150"/>
+  <img src="https://github.com/user-attachments/assets/ff1ea8ae-c8c3-45ec-a6af-d09f9d67ba5c" alt="Screenshot 4" width="150"/>
+  <img src="https://github.com/user-attachments/assets/3231231c-68bb-4c0a-bbaf-21afd2a575b8" alt="Screenshot 5" width="150"/>
 </p>
 <p align="center">
-  <img src="IMAGE_URL6" alt="Screenshot 6" width="150"/>
-  <img src="IMAGE_URL7" alt="Screenshot 7" width="150"/>
-  <img src="IMAGE_URL8" alt="Screenshot 8" width="150"/>
-  <img src="IMAGE_URL9" alt="Screenshot 9" width="150"/>
-  <img src="IMAGE_URL10" alt="Screenshot 10" width="150"/>
+  <img src="https://github.com/user-attachments/assets/c916c4f9-e247-4d58-bd84-a3697a882d58" alt="Screenshot 6" width="150"/>
+  <img src="https://github.com/user-attachments/assets/8ba4bd74-0512-428b-a0f0-3f58002dca4a" alt="Screenshot 7" width="150"/>
+  <img src="https://github.com/user-attachments/assets/3184b4ba-5642-49ff-9ee9-b968eb0cac0a" alt="Screenshot 8" width="150"/>
+  <img src="https://github.com/user-attachments/assets/44b7ff96-297b-48ea-85a2-89064807af8e" alt="Screenshot 9" width="150"/>
+  <img src="https://github.com/user-attachments/assets/ffd90b0d-ae7d-4d78-83f4-5c660fc2a23d" alt="Screenshot 10" width="150"/>
 </p>
 <p align="center">
-  <img src="IMAGE_URL11" alt="Screenshot 11" width="150"/>
-  <img src="IMAGE_URL12" alt="Screenshot 12" width="150"/>
+  <img src="https://github.com/user-attachments/assets/9870862f-c6d0-4ce0-93ad-64f7806abd07" alt="Screenshot 11" width="150"/>
+  <img src="https://github.com/user-attachments/assets/c07efccb-bea3-4ef0-bc97-78d694fb5471" alt="Screenshot 12" width="150"/>
 </p>
 
 ## Technologies Used
