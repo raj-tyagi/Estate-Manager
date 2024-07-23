@@ -92,4 +92,4 @@ For any inquiries or feedback, please contact me @ [[Raj Tyagi]](https://www.lin
 
 ---
 
-Thank you for using Estate Manager! We hope it helps you manage your real estate needs effectively.
+Thank you for using Estate Manager! I hope it helps you manage your real estate needs effectively.
