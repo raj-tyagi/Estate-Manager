@@ -13,45 +13,30 @@ Estate Manager is a professional property management Android application designe
 - **Contact Us**: Easily reach out for adding your property to the listings.
 - **Firebase Integration**: Real-time database for property and user data management.
 
-## Screenshots
+
 
 ## Screenshots
 Below are the screenshots showcasing the key features and user interface of the Estate-Manager application.
 
-### User Registration and Login
-![User Registration](https://github.com/user-attachments/assets/121ea6a5-4331-4813-b52f-bf2eab7fc4a5)
-*User Registration Screen*
 
-![Login](https://github.com/user-attachments/assets/be410587-c661-4f57-bb76-9f7abc96dde1)
-*Login Screen*
-
-### Home Screen
-![Home Screen](https://github.com/user-attachments/assets/db47c474-bcb2-42a0-9608-a2fc501926a0)
-*Main Home Screen Displaying Sale and Rent Categories*
-
-### Property Listings
-![Property Listings](https://github.com/user-attachments/assets/ff1ea8ae-c8c3-45ec-a6af-d09f9d67ba5c)
-*List of Properties Available for Sale*
-
-![Property Listings](https://github.com/user-attachments/assets/3231231c-68bb-4c0a-bbaf-21afd2a575b8)
-*List of Properties Available for Rent*
-
-### Property Details
-![Property Details](https://github.com/user-attachments/assets/c916c4f9-e247-4d58-bd84-a3697a882d58)
-*Detailed View of a Property*
-
-### Contact Information Popup
-![Contact Information Popup](https://github.com/user-attachments/assets/8ba4bd74-0512-428b-a0f0-3f58002dca4a)
-*Contact Us Popup Display*
-
-### Transaction Logs
-![Transaction Logs](https://github.com/user-attachments/assets/3184b4ba-5642-49ff-9ee9-b968eb0cac0a)
-*Logs Showing Transactions for Sale and Rent*
-
-### User Profile
-![User Profile](https://github.com/user-attachments/assets/44b7ff96-297b-48ea-85a2-89064807af8e)
-*User Profile Section*
-
+<p align="center">
+  <img src="IMAGE_URL1" alt="Screenshot 1" width="150"/>
+  <img src="IMAGE_URL2" alt="Screenshot 2" width="150"/>
+  <img src="IMAGE_URL3" alt="Screenshot 3" width="150"/>
+  <img src="IMAGE_URL4" alt="Screenshot 4" width="150"/>
+  <img src="IMAGE_URL5" alt="Screenshot 5" width="150"/>
+</p>
+<p align="center">
+  <img src="IMAGE_URL6" alt="Screenshot 6" width="150"/>
+  <img src="IMAGE_URL7" alt="Screenshot 7" width="150"/>
+  <img src="IMAGE_URL8" alt="Screenshot 8" width="150"/>
+  <img src="IMAGE_URL9" alt="Screenshot 9" width="150"/>
+  <img src="IMAGE_URL10" alt="Screenshot 10" width="150"/>
+</p>
+<p align="center">
+  <img src="IMAGE_URL11" alt="Screenshot 11" width="150"/>
+  <img src="IMAGE_URL12" alt="Screenshot 12" width="150"/>
+</p>
 
 ## Technologies Used
 - Android Studio: IDE for Android development.
@@ -85,24 +70,7 @@ Below are the screenshots showcasing the key features and user interface of the 
 
 5. Build and run the project on an emulator or physical device.
 
-## Usage
 
-### User Login
-
-- Open the app and navigate to the User Login screen.
-- Enter your email and password to log in.
-- If you don't have an account, click on the "Register" button to create one.
-
-### Property Listings
-
-- After logging in, you will be redirected to the User Home screen.
-- Browse properties for sale and rent in separate sections.
-- Click on a property to view detailed information.
-
-### Contact Us
-
-- To add your property for sale or rent, click on the "Contact Us" text at the bottom of the User Home screen.
-- A dialog will appear with contact information.
 
 ## Contributing
 
