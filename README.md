@@ -38,6 +38,8 @@ Below are the screenshots showcasing the key features and user interface of the 
   <img src="https://github.com/user-attachments/assets/c07efccb-bea3-4ef0-bc97-78d694fb5471" alt="Screenshot 12" width="150"/>
 </p>
 
+**Video Demonstartion:**[Link]( https://drive.google.com/file/d/13mMax6_AqRmlvAdTQs63t75-23MSOsGY/view?usp=sharing)
+
 ## Technologies Used
 - Android Studio: IDE for Android development.
 - Kotlin: Programming language for Android development.
