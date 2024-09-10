@@ -1,5 +1,5 @@
 # Estate Manager
- 
+
 ## Introduction
 
 Estate Manager is a professional property management Android application designed to streamline the process of buying, selling, and renting properties. It offers an intuitive user interface for both property seekers and property owners to manage and explore real estate opportunities efficiently.
